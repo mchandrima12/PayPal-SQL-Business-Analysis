@@ -92,8 +92,8 @@ The corresponding business insights document explains the business relevance of 
 
 Refer to the `03_Business_Insights` folder for detailed documentation.
 
-## Repository Structure
-
+Repository Structure
+```
 PayPal-SQL-Analysis/
 │
 ├── README.md
@@ -106,8 +106,9 @@ PayPal-SQL-Analysis/
 │
 └── 03_Business_Insights/
     └── Business Findings and Recommendations
+```
 
-## Key Learning Outcomes
+Key Learning Outcomes
 
 Through this project, I developed practical experience in:
 
